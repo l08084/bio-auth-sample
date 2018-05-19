@@ -1,0 +1,8 @@
+{
+  "name": "bio-auth-sample",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
